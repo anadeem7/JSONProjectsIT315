@@ -32,7 +32,7 @@
 	{
 	
 	"restmainImage" : "https://raw.githubusercontent.com/anadeem7/JSONProjectsIT315/master/02.jpg",
-        "estname" : "The Wine House",
+        "restname" : "The Wine House",
         "restaddress" : "3950 University Dr, Fairfax, VA 22030",
         "restnumber" : "703-352-2211",
         "restrating" : "4.6/5",
