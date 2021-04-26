@@ -1,43 +1,43 @@
 {
 	"RestaurantInfo": [
 	{
-		"restmainImage" = "04.jpg",
-        "restname" = "The Cheesecake Factory",
-        "restaddress" = "11778 University Dr, Fairfax, VA 22033",
-        "restnumber" = "703-273-6600",
-        "restrating" = "4.3/5",
-        "restdetails" = "American chain restaurant offering sizable portions from a vast menu including signature cheesecake",
-        "restsite" = "https://www.thecheesecakefactory.com/menu/"
+		"restmainImage" : "04.jpg",
+        "restname" : "The Cheesecake Factory",
+        "restaddress" : "11778 University Dr, Fairfax, VA 22033",
+        "restnumber" : "703-273-6600",
+        "restrating" : "4.3/5",
+        "restdetails" : "American chain restaurant offering sizable portions from a vast menu including signature cheesecake",
+        "restsite" : "https://www.thecheesecakefactory.com/menu/"
 	},
 	{
-		"restmainImage" = "05.jpg",
-        "restname" = "Taco Bamba Taquerias",
-        "restaddress" = "10629 Braddock Rd, Fairfax, VA 22032",
-        "restnumber" = "571-655-6265",
-        "restrating" = "4.7/5",
-        "restdetails" = "Victor Albisu's stand-up/counter-served take on Mexican street food and tacos in both traditional and chef-driven styles.",
-        "restsite" = "https://www.tacobamba.com/menus/#fairfax"
+		"restmainImage" : "05.jpg",
+        "restname" : "Taco Bamba Taquerias",
+        "restaddress" : "10629 Braddock Rd, Fairfax, VA 22032",
+        "restnumber" : "571-655-6265",
+        "restrating" : "4.7/5",
+        "restdetails" : "Victor Albisu's stand-up/counter-served take on Mexican street food and tacos in both traditional and chef-driven styles.",
+        "restsite" : "https://www.tacobamba.com/menus/#fairfax"
 
 	},
 	{
-		"restmainImage" = "03.jpg",
-        "restname" = "Uncle Julio's Mexican From Scratch",
-        "restaddress" = "4251 Fairfax Corner Ave, Fairfax, VA 22030",
-        "restnumber" = "703-266-7760",
-        "restrating" = "4.2/5",
-        "restdetails" = "Tex-Mex chain serving mesquite-grilled fare & margarita-sangria swirls in a hacienda-style space.",
-        "restsite" = "https://unclejulios.com/menus/"
+		"restmainImage" : "03.jpg",
+        "restname" : "Uncle Julio's Mexican From Scratch",
+        "restaddress" : "4251 Fairfax Corner Ave, Fairfax, VA 22030",
+        "restnumber" : "703-266-7760",
+        "restrating" : "4.2/5",
+        "restdetails" : "Tex-Mex chain serving mesquite-grilled fare & margarita-sangria swirls in a hacienda-style space.",
+        "restsite" : "https://unclejulios.com/menus/"
         
     },
 	{
 	
-		"restmainImage" = "02.jpg",
-        "estname" = "The Wine House",
-        "restaddress" = "3950 University Dr, Fairfax, VA 22030",
-        "restnumber" = "703-352-2211",
-        "restrating" = "4.6/5",
-        "restdetails" = "Local wine bar with an extensive wine list & a menu with cheese platters & New American entrees.",
-        "restsite" = "https://www.winehouseonline.com/dining/"
+		"restmainImage" : "02.jpg",
+        "estname" : "The Wine House",
+        "restaddress" : "3950 University Dr, Fairfax, VA 22030",
+        "restnumber" : "703-352-2211",
+        "restrating" : "4.6/5",
+        "restdetails" : "Local wine bar with an extensive wine list & a menu with cheese platters & New American entrees.",
+        "restsite" : "https://www.winehouseonline.com/dining/"
 	}
 	]
 }	
